@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/star-match-game/static/css/main.28259b14.chunk.css",
+    "main.js": "/star-match-game/static/js/main.0da35f30.chunk.js",
+    "main.js.map": "/star-match-game/static/js/main.0da35f30.chunk.js.map",
+    "runtime-main.js": "/star-match-game/static/js/runtime-main.c2ed47dd.js",
+    "runtime-main.js.map": "/star-match-game/static/js/runtime-main.c2ed47dd.js.map",
+    "static/js/2.8c2e3f03.chunk.js": "/star-match-game/static/js/2.8c2e3f03.chunk.js",
+    "static/js/2.8c2e3f03.chunk.js.map": "/star-match-game/static/js/2.8c2e3f03.chunk.js.map",
+    "index.html": "/star-match-game/index.html",
+    "precache-manifest.df035de190fb4bbb34d4d005f22adbf4.js": "/star-match-game/precache-manifest.df035de190fb4bbb34d4d005f22adbf4.js",
+    "service-worker.js": "/star-match-game/service-worker.js",
+    "static/css/main.28259b14.chunk.css.map": "/star-match-game/static/css/main.28259b14.chunk.css.map",
+    "static/js/2.8c2e3f03.chunk.js.LICENSE.txt": "/star-match-game/static/js/2.8c2e3f03.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/star-match-game/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2ed47dd.js",
+    "static/js/2.8c2e3f03.chunk.js",
+    "static/css/main.28259b14.chunk.css",
+    "static/js/main.0da35f30.chunk.js"
+  ]
+}
